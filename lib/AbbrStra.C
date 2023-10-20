@@ -3,6 +3,7 @@
 #include <vector>
 #include <fstream>
 #include <iostream>
+#include <Hash.h>
 
 
 WordData::WordData(const char *wrdnam, const char *stpnam, 
